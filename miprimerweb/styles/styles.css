@@ -1,0 +1,41 @@
+html {
+    font-size: 10px; /* px means "pixels": the base font size is now 10 pixels high  */
+    font-family: 'Kanit', sans-serif;; /* this should be the rest of the output you got from Google fonts */
+  }
+
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #6b6c6d;
+    text-shadow: 2px 2px 1px rgba(114, 114, 114, 0.075);
+  }
+  
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  html {
+    background-color: #e2a243;
+  }
+
+  body {
+    width: 800px;
+    margin: 10px auto;
+    background-color: #eecd9e;
+    padding: 0 20px 20px 20px;
+    border: 3px solid rgb(83, 82, 82);
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  
