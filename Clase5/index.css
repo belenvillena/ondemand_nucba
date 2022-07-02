@@ -1,0 +1,22 @@
+h3 { background-color: brown;}
+p {color: rgb(49, 23, 163);}
+.titulo { color: blueviolet;}
+#mejor { color: darkgreen;}
+
+.cuadrado { width: 200px;
+            height: 200px;
+            background-color: brown;}
+
+.cuadrado2 { width: 10%;
+                height: 15%;
+                background-color: rgb(93, 223, 18);}
+
+.holi { width: 200px;
+        height: 200px;
+        background-image: url(/Clase5/img/IMG_20220506_114544_2.jpg) ;
+        background-size: contain;
+        background-repeat: no-repeat;
+        }
+
+.uno { color: rgb(61, 6, 112);}
+.dos { color: rgba(100, 50, 30, 0.9);}
