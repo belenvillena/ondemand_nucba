@@ -1,0 +1,15 @@
+.para1 { margin-top: 10px;
+         margin-bottom: 10px;
+         margin-left: 30px;
+        margin-right: 15px;
+        border: 10px solid blueviolet;
+       
+
+}
+.para2 { width: 100px;
+        height: 100px;
+        margin: 40px 40px 10px 40px;
+          border: 5px solid salmon;
+        padding: 30px;
+        background-color: aquamarine;
+    overflow: auto;}
