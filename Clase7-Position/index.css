@@ -1,0 +1,10 @@
+.cuadrado { width: 200px;
+            height: 200px;
+            display: inline-block;}
+
+.c-1 { background-color: aqua;}
+.c-2 { background-color: rgb(233, 133, 18);}
+.c-3 { background-color: rgb(87, 29, 221);}
+.c-4 { background-color:black;}
+.c-5 { background-color: rgb(150, 233, 18);}
+.c-6 { background-color: rgb(222, 245, 13);}

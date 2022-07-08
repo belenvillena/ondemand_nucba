@@ -1,0 +1,12 @@
+h2 {display: inline-block;
+    background-color: aqua;
+    height: 50px;}
+
+p {display: inline;
+background-color: rgb(228, 218, 236);}
+
+input { display: block;
+
+    height: 20px;
+    background-color: darkorange;
+      }
