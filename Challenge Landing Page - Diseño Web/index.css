@@ -1,0 +1,28 @@
+
+
+@font-face {
+    font-family: "bel";
+    src: url(/belen.ttf);
+}
+
+body { background-color: black;
+color: rgba(233, 14, 6, 0.904);
+font-size: large;
+font-variant: small-caps;
+}
+
+.logo { width: 100px; height: 100px;}
+
+
+.navegacion { display: flex;
+    position: fixed;
+    left: 80px;
+    width: 80%;
+    height: 20%;
+                flex-direction: row;
+               align-items: baseline;
+               justify-content: space-around;
+           
+            
+        }
+
